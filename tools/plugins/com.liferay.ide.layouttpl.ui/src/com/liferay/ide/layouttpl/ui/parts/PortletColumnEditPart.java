@@ -48,6 +48,8 @@ public class PortletColumnEditPart extends PortletRowLayoutEditPart
         super();
     }
 
+    
+    
     protected void createEditPolicies()
     {
         // allow removal of the associated model element
