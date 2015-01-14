@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: %pluginName
 Bundle-Vendor: %providerName
-Bundle-SymbolicName: com.liferay.ide.xml.search.ui.tests
+Bundle-SymbolicName: com.liferay.ide.alloy.ui.tests
 Bundle-Version: 3.0.0.qualifier
 Require-Bundle: org.eclipse.core.runtime,
  org.eclipse.core.resources,
@@ -37,5 +37,5 @@ Require-Bundle: org.eclipse.core.runtime,
  com.liferay.ide.ui.tests
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ActivationPolicy: lazy
-Export-Package: com.liferay.ide.xml.search.ui.tests
+Export-Package: com.liferay.ide.alloy.ui.tests
 

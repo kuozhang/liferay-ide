@@ -13,18 +13,17 @@
  *
  *******************************************************************************/
 
-package com.liferay.ide.xml.search.ui.tests;
+package com.liferay.ide.alloy.ui.tests;
 
 import com.liferay.ide.ui.tests.UITestsBase;
 
 /**
- * @author Kuo Zhang
  * @author Terry Jia
  */
-public class XmlSearchTestsBase extends UITestsBase
+public class AlloyTestsBase extends UITestsBase
 {
 
-    private static final String bundleId = "com.liferay.ide.xml.search.ui.tests";
+    private static final String bundleId = "com.liferay.ide.alloy.ui.tests";
 
     protected String getBundleId()
     {
